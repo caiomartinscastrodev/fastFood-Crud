@@ -5,7 +5,7 @@
     //Exemplo com constantes
     session_start();
 
-    $dsn = 'mysql:host=localhost;dbname=FASTFOOD';
+    $dsn = '';
     $user = 'root';
     $pass = '';
 
